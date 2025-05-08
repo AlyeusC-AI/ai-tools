@@ -13,7 +13,7 @@ export default function DashboardPage() {
   const recentTools = [
     { id: 1, name: 'Blog Post Generator', icon: <Edit3 className="h-5 w-5" />, category: 'Content' },
     { id: 2, name: 'Instagram Post', icon: <MessageSquare className="h-5 w-5" />, category: 'Social Media' },
-    { id: 3, name: 'Product Description', icon: <FileText className="h-5 w-5\" />, category: 'E-  },
+    { id: 3, name: 'Product Description', icon: <FileText className="h-5 w-5\" />, category: 'E-commerce'  },
     { id: 3, name: 'Product Description', icon: <FileText className="h-5 w-5" />, category: 'E-commerce' },
     { id: 4, name: 'Logo Design', icon: <ImageIcon className="h-5 w-5" />, category: 'Image' },
     { id: 5, name: 'React Component', icon: <Code className="h-5 w-5" />, category: 'Developer' },
